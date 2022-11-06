@@ -9,6 +9,13 @@
 
 */
 
+var characters = {
+  lowerCase: "abcdefghijklmnopqrstuvwxyz".split(''),
+  upperCase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split(''),
+  numbers: "123456789".split(''),
+  symbols: "!@#$%^&*()".split('')
+}
+
 function generatePassword() {
   console.log(characters.lowerCase)
 }
