@@ -1,6 +1,17 @@
 // Assignment code here
+/* Pseudo-Code
+- define acceptable inputs: lower case, uppercase, numbers, symbols
+    * create object with all items in it
+- define length: minimum 8, maximum 128
+- create prompts for user to select desired criteria
+- when user inputs criteria validate and include selected criteria
+- 
 
+*/
 
+function generatePassword() {
+  console.log(characters.lowerCase)
+}
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
