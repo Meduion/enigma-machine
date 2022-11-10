@@ -39,7 +39,7 @@ var characters = {
 };
 
 function userInput () {
-  // This converts user input into a number, if user doesn't enter a number the process is ended and they're informed why.
+  // This converts user input into a number, if user doesn't enter a number the process is ended and they're informed why. The number.isNaN method was suggested by a tutor on the Ask BCS service on Slack.
   var length = parseInt(prompt("Select number of characters between 8 and 128 for password."));
   if (Number.isNaN(length)) {
     alert("Number of characters must be a number value.");
