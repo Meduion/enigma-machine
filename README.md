@@ -14,7 +14,7 @@ Website is deployed at the following address: https://meduion.github.io/enigma-m
 
 Screenshot of completed webpage:
 
-![Enigma Machine Password Generator Screen Shot](/assets/images/enigma-machine.jpeg)
+![Enigma Machine Password Generator Screen Shot](/enigma-machine.jpeg)
 
 ## Credits
   
